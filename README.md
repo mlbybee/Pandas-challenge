@@ -5,7 +5,7 @@ Pandas - Challenge Assignment
 
 Description:
 
-This assignment includes analyzing the district-wide standardized test results for both reading and math for grades 9 through 12. 
+This assignment includes analyzing the district-wide highschool standardized test results for both reading and math. 
 
 The data provided included: School ID, School Name, Type of School, Size, Budget, Student ID, Student Name, Gender, Grade, Reading Score, and Math Score. 
 
