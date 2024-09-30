@@ -40,10 +40,4 @@ Support Received:
 
 I reviewed the lectures, utilized the Xpert Learning Assistant on the Bootcamp site, Stack Overflow, W3 Schools and discussed with one of my class peers on slack.
 
-Submission Includes:
 
-Resources Folder containing .csv files (school data and student data)
-
-ReadMe file
-
-PyCitySchools.ipynb
