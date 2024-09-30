@@ -25,12 +25,15 @@ District-Wide Conclusions:
 1. Charter school outperformed District schools in both reading and math scores and had a dramatically higher overall passing rate. This could be due to Charter schools typically serving smaller student populations per school. 
 
     Charter schools passing rate = 90.4%
+   
     District schools passing rate = 53.6%
     
-2. Smaller to medium school size schools outperformed larger school sizes on math and reading performances had an increased overall passing rate. This could be due to the teacher to student ratio at these schools.
+3. Smaller to medium school size schools outperformed larger school sizes on math and reading performances had an increased overall passing rate. This could be due to the teacher to student ratio at these schools.
 
     Large school passing rate = 58.2%
+   
     Medium school passing rate = 90.6%
+   
     Small school passing rate = 89.8%
 
 Support Received:
